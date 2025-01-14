@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93483E6A-7C0A-491C-BB80-6C05D8DA5838}|BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj|c:\\users\\user\\source\\repos\\blazor-practice-app\\chapter3\\myblog\\blazorwebapp\\blazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93483E6A-7C0A-491C-BB80-6C05D8DA5838}|BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\blazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A292E4-FE6D-4D77-9D1A-F5E41C7FD936}|Data\\Data.csproj|c:\\users\\user\\source\\repos\\blazor-practice-app\\chapter3\\myblog\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0A292E4-FE6D-4D77-9D1A-F5E41C7FD936}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78880FD2-64B5-4A73-8AA2-5968F9E4026C}|Data.Models\\Data.Models.csproj|c:\\users\\user\\source\\repos\\blazor-practice-app\\chapter3\\myblog\\data.models\\data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78880FD2-64B5-4A73-8AA2-5968F9E4026C}|Data.Models\\Data.Models.csproj|solutionrelative:data.models\\data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93483E6A-7C0A-491C-BB80-6C05D8DA5838}|BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj|c:\\users\\user\\source\\repos\\blazor-practice-app\\chapter3\\myblog\\blazorwebapp\\blazorwebapp\\blazorwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93483E6A-7C0A-491C-BB80-6C05D8DA5838}|BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj|solutionrelative:blazorwebapp\\blazorwebapp\\blazorwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlazorWebApp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+              "RelativeDocumentMoniker": "BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+              "RelativeToolTip": "BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T17:28:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.Models",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\Data.Models\\Data.Models.csproj",
+              "RelativeDocumentMoniker": "Data.Models\\Data.Models.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\Data.Models\\Data.Models.csproj",
+              "RelativeToolTip": "Data.Models\\Data.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T17:20:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T17:17:53.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\BlazorWebApp\\BlazorWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWebApp\\BlazorWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter3\\MyBlog\\BlazorWebApp\\BlazorWebApp\\Program.cs",
+              "RelativeToolTip": "BlazorWebApp\\BlazorWebApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:16:44.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

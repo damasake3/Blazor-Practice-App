@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter2\MyBlog\BlazorWebApp\BlazorWebApp.Client\obj\Debug\net8.0\staticwebassets.build.json
