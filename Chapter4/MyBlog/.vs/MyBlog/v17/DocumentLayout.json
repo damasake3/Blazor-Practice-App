@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter4\\MyBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A292E4-FE6D-4D77-9D1A-F5E41C7FD936}|Data\\Data.csproj|c:\\users\\user\\source\\repos\\blazor-practice-app\\chapter4\\myblog\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0A292E4-FE6D-4D77-9D1A-F5E41C7FD936}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E767D23B-057B-42A8-8BD4-2A9DEC810000}|SharedComponents\\SharedComponents.csproj|c:\\users\\user\\source\\repos\\blazor-practice-app\\chapter4\\myblog\\sharedcomponents\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E767D23B-057B-42A8-8BD4-2A9DEC810000}|SharedComponents\\SharedComponents.csproj|solutionrelative:sharedcomponents\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter4\\MyBlog\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter4\\MyBlog\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T07:34:04.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter4\\MyBlog\\SharedComponents\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "SharedComponents\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Blazor-Practice-App\\Chapter4\\MyBlog\\SharedComponents\\Pages\\Home.razor",
+              "RelativeToolTip": "SharedComponents\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T07:21:08.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
