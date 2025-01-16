@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\bin\Debug\net8.0\Data.Models.deps.json
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\bin\Debug\net8.0\Data.Models.dll
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\bin\Debug\net8.0\Data.Models.pdb
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.sourcelink.json
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.dll
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\refint\Data.Models.dll
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\Data.Models.pdb
+C:\Users\User\source\repos\Blazor-Practice-App\Chapter4\MyBlog\Data.Models\obj\Debug\net8.0\ref\Data.Models.dll
